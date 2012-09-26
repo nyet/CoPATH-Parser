@@ -10,12 +10,9 @@ num = Word(nums)
 accessionDate = Combine(num + "/" + num + "/" + num)("accDate")
 accessionNumber = Combine("S" + num + "-" + num)("accNum")
 patMedicalRecordNum = Combine(num + "/" + num + "-" + num + "-" + num)("patientNum")
-gleason = Group("GLEASON" + Optional("SCORE:") + num("left") + "+" + num("right") + "=" + num("total"))
-# assert 'GLEASON 5+4=9' == gleason
-# assert 'GLEASON SCORE:  3 + 3 = 6' == gleason
+gleason = Group("GLEASON" + Optional("SCORE") + Optional("PATTERN") + Optional(":") + num("left") + "+" + num("right") + Optional("=") + Optional("total"))
 
 patientData = Group(accessionDate + accessionNumber + patMedicalRecordNum)
-# assert '01/02/11  S11-4444 20/111-22-3333' == patientData
 
 partMatch = patientData("patientData") | gleason("gleason")
 
@@ -32,7 +29,7 @@ for match in partMatch.searchString(TEXT):
         if lastPatientData is None:
             print "bad!"
             continue
-        FOUT.write( "{0.accDate},{0.accNum},{0.patientNum},Gleason({1.left}+{1.right}={1.total})\n".format(
+        FOUT.write( "{0.accDate},{0.accNum},{0.patientNum},{1.left},{1.right}\n".format(
                         lastPatientData.patientData, match.gleason
                         ))
 FOUT.close()
