@@ -1,0 +1,137 @@
+01/01/01  S01-12345 20/111-22-1001 A.  PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:                           
+                                   -  ADENOCARCINOMA.                                                      
+
+                                   TOTAL GLEASON SCORE:  GLEASON 5+4=9                                     
+                                   TUMOR LOCATION:  BILATERAL                                              
+                                   TUMOR QUANTITATION:  15% OF PROSTATE INVOLVED BY TUMOR                  
+                                   EXTRAPROSTATIC EXTENSION:  PRESENT AT RIGHT POSTERIOR                   
+                                   SEMINAL VESICLE INVASION:  PRESENT                                      
+                                   MARGINS:  UNINVOLVED                                                    
+                                   LYMPHOVASCULAR INVASION:  PRESENT                                       
+                                   PERINEURAL INVASION:  PRESENT                                           
+                                   LYMPH NODES (SPECIMENS B AND C):                                        
+                                      NUMBER EXAMINED:  25                                                 
+                                      NUMBER INVOLVED:  1                                                  
+                                      DIAMETER OF LARGEST METASTASIS:  1.7 mm                              
+                                   ADDITIONAL FINDINGS:  HIGH-GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA,   
+                                      ACUTE AND CHRONIC INFLAMMATION, INTRADUCTAL EXTENSION OF INVASIVE    
+                                      CARCINOMA                                                            
+
+                                   PATHOLOGIC STAGE:  pT3b N1 MX                                           
+
+                               B.  LYMPH NODES, RIGHT PELVIC, EXCISION:                                    
+                                   -  ONE OF SEVENTEEN LYMPH NODES POSITIVE FOR METASTASIS (1/17).         
+
+                               C.  LYMPH NODES, LEFT PELVIC, EXCISION:                                     
+                                   -  EIGHT LYMPH NODES NEGATIVE FOR METASTASIS (0/8).                     
+01/02/02  S02-1234 20/111-22-1002 PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:                               
+                                  - ADENOCARCINOMA.                                                        
+                                    GLEASON SCORE:  3 + 3 = 6 WITH TERTIARY PATTERN OF 5.                   
+                                    TUMOR QUANTITATION:  APPROXIMATELY 10% BY VOLUME.                      
+                                    TUMOR LOCATION:  BILATERAL.                                            
+                                    EXTRAPROSTATIC EXTENSION:  NOT IDENTIFIED.                             
+                                    MARGINS:  NEGATIVE.                                                    
+                                    PERINEURAL INVASION:  IDENTIFIED.                                      
+                                    LYMPH-VASCULAR INVASION:  NOT IDENTIFIED.                              
+                                    SEMINAL VESICLE/VASA DEFERENTIA INVASION: NOT IDENTIFIED.              
+                                    LYMPH NODES:  NONE SUBMITTED.                                          
+                                    OTHER:  HIGH GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA.                
+                               PATHOLOGIC STAGE (pTNM):  pT2c NX.
+05/02/03  S03-1234  31/111-22-1003 PROSTATECTOMY:  ADENOCARCINOMA, GLEASON GRADE 4+3=7.                        
+                                   TUMOR LOCATION:  BILATERAL.                                                 
+                                   HISTOLOGIC TYPE:  ADENOCARCINOMA.                                           
+                                   GLEASON SCORE:  7=4+3.                                                      
+                                   TUMOR VOLUME:  LESS THAN 5% OF GLAND (PREDOMINANTLY INVOLVING THE           
+                                                  RIGHT HEMIPROSTATE).                                         
+                                   EXTRAPROSTATIC EXTENSION:  NONE.                                            
+                                   MARGINS:  INVOLVED, BILATERAL APEX.                                         
+                                   APEX:  INVOLVED, BILATERALLY.                                               
+                                   PERINEURAL INVASION:  PRESENT.                                              
+                                   ANGIOLYMPHATIC INVASION:  ABSENT.                                           
+                                   SEMINAL VESICLES:  UNINVOLVED.                                              
+                                   VAS DEFERENS:  UNINVOLVED.                                                  
+                                   ADDITIONAL FINDINGS:  NONE.                                                 
+                                   LYMPH NODES:  NONE RECEIVED.                                                
+                                   PATHOLOGIC TNM:  pT2bNXMX.
+07/17/04  S04-123  30/111-22-1004 A)  CLINICALLY LEFT OBTURATOR LYMPH NODE PACKAGE:  MULTIPLE LYMPH NODES     
+                                   WITH NO METASTATIC CARCINOMA IDENTIFIED.                                    
+
+                                   B)  CLINICALLY LEFT POSTERIOR MARGIN:                                       
+                                       1.  BENIGN FIBROMUSCULAR TISSUE AND FAT.                                
+                                       2.  NO CARCINOMA IDENTIFIED.                                            
+
+                                   C)  RADICAL PROSTATECTOMY:  ADENOCARCINOMA.                                 
+                                       TUMOR LOCATION:  THREE FOCI LOCATED IN THE LEFT APICAL THIRD AND        
+                                        TWO FOCI IN THE LEFT BASAL THIRD.                                      
+                                       HISTOLOGIC TYPE:  ADENOCARCINOMA.                                       
+                                       GLEASON SCORE:  3+4-7.                                                  
+                                       TUMOR SIZE:  LEFT APICAL THIRD 1.0 CM; INFERIOR LEFT BASAL THIRD        
+                                        0.8 CM AND SUPERIOR BASAL THIRD 0.7 CM--ESTIMATED VOLUME 5%.           
+                                       EXTRAPROSTATIC EXTENSION:  SEE COMMENT.                                 
+                                       MARGINS:  MICROSCOPIC INVOLVEMENT OF THE LEFT LATERAL MID THIRD         
+                                        SURGICAL MARGIN; ALL OTHER MARGINS NEGATIVE FOR CARCINOMA.             
+                                       APEX:  NO CARCINOMA IDENTIFIED.                                         
+                                       PERINEURAL INVASION:  PRESENT.                                          
+                                       ANGIOLYMPHATIC INVASION:  NOT IDENTIFIED.                               
+                                       SEMINAL VESICLES:  NO INVOLVEMENT BY CARCINOMA IDENTIFIED.              
+                                       VAS DEFERENS:  NO INVOLVEMENT BY CARCINOMA IDENTIFIED.                  
+                                       ADDITIONAL FINDINGS:  FOCAL PROSTATIC INTRAEPITHELIAL NEOPLASIA         
+                                        AND FOCAL CHRONIC INFLAMMATION.                                        
+                                       LYMPH NODES:  SEE ABOVE.                                                
+                                       PATHOLOGIC TNM:  SEE COMMENT.
+01/28/05  S05-1234  20/111-22-1005 PROSTATECTOMY:                                                              
+                                        PROSTATIC ADENOCARCINOMA, GLEASON SCORE 7 [3+4].                       
+
+                                        TUMOR LOCATION:  LEFT POSTERIOR QUADRANT.                              
+                                        TUMOR VOLUME:  APPROXIMATELY 5% OF THE PROSTATE VOLUME.                
+                                        EXTRAPROSTATIC EXTENSION:  NOT IDENTIFIED.                             
+                                        MARGINS:  NEGATIVE.                                                    
+                                        PERINEURAL INVASION:   PRESENT (SLIDE 22).                             
+                                        ANGIOLYMPHATIC INVASION:   NOT IDENTIFIED.                             
+                                        SEMINAL VESICLES:  NOT INVOLVED BY CARCINOMA.                          
+                                        VAS DEFERENS:  NOT INVOLVED BY CARCINOMA.                              
+                                        ADDITIONAL FINDINGS:                                                   
+                                             1.   BILATERAL HIGH-GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA.    
+                                             2.   GLANDULAR AND STROMAL HYPERPLASIA.                           
+                                             3.   FOCAL CHRONIC PROSTATITIS.                                   
+                                        LYMPH NODES:  NOT SUBMITTED.                                           
+
+                                   PATHOLOGIC STAGING (TNM):   pT2a pNx Mx                                     
+                                   STAGING FORM CODE:  (34)                                                    
+07/18/06  S06-10686 20/111-22-1006 A.  PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:                           
+                                       -  PROSTATIC ADENOCARCINOMA.                                            
+
+                                       TOTAL GLEASON SCORE:  GLEASON 4+3 WITH TERTIARY GLEASON PATTERN 5       
+                                       TUMOR LOCATION:  LEFT PROSTATE                                          
+                                       TUMOR QUANTITATION:  5% OF PROSTATE INVOLVED BY TUMOR                   
+                                       EXTRAPROSTATIC EXTENSION:  SUSPICIOUS                                   
+                                       SEMINAL VESICLE INVASION:  NOT IDENTIFIED                               
+                                       MARGINS:  TUMOR PRESENT AT LEFT APICAL MARGIN                           
+                                       LYMPHOVASCULAR INVASION:  NOT IDENTIFIED                                
+                                       PERINEURAL INVASION:  PRESENT                                           
+                                       ADDITIONAL FINDINGS:  HIGH-GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA,   
+                                          ACUTE AND CHRONIC INFLAMMATION                                       
+
+                                       PATHOLOGIC STAGE:  pT2b N0                                              
+
+                                   B.  LYMPH NODES, RIGHT PELVIC, EXCISION:                                    
+                                       -  TWO LYMPH NODES NEGATIVE FOR METASTASIS (0/2).                       
+
+                                   C.  LYMPH NODES, LEFT PELVIC, EXCISION:                                     
+                                       -  TWO LYMPH NODES NEGATIVE FOR METASTASIS (0/2).
+02/22/07  S07-2749  20/111-22-1007 A.  PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:                           
+                                       -  ADENOCARCINOMA.                                                      
+
+                                       HISTOLOGIC PATTERN:  GLEASON SCORE 6 (3+3)                              
+                                       TUMOR QUANTITATION:  LESS THAN 5% OF PROSTATE                           
+                                       EXTRAPROSTATIC EXTENSION:  NOT IDENTIFIED                               
+                                       SEMINAL VESICLE INVASION:  NOT IDENTIFIED                               
+                                       MARGINS:  CAUTERIZED TUMOR FOCALLY PRESENT AT LEFT APICAL MARGIN        
+                                       TREATMENT EFFECT:  NOT IDENTIFIED                                       
+                                       LYMPH-VASCULAR INVASION:  NOT IDENTIFIED                                
+                                       PERINEURAL INVASION:  PRESENT                                           
+                                       ADDITIONAL FINDINGS:  HIGH-GRADE PROSTATIC INTRAEPITHELIAL NEOPLASIA,   
+                                           BIOPSY SITE CHANGES, ACUTE AND CHRONIC INFLAMMATION, ONE LYMPH      
+                                           NODE NEGATIVE FOR METASTASIS (0/1)                                  
+
+                                   PATHOLOGIC STAGING (pTNM): pT2c N0            
