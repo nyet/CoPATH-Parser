@@ -1,3 +1,3 @@
 CoPATH-Parser
 =============
-heavy debt owed to Stack Exchange, and Paul McGuire, the author of pyparsing, specifically.
+heavy debt owed to Stack Exchange, and especially Paul McGuire, the author of pyparsing, for his ongoing assistance.
